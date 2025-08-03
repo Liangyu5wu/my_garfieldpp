@@ -1,0 +1,3 @@
+/sdf/data/atlas/u/liangyu/on_chip_driftchamber/my_Garfield/Examples/gas_generation/build/CMakeFiles/generate_he_ic4h10.dir
+/sdf/data/atlas/u/liangyu/on_chip_driftchamber/my_Garfield/Examples/gas_generation/build/CMakeFiles/edit_cache.dir
+/sdf/data/atlas/u/liangyu/on_chip_driftchamber/my_Garfield/Examples/gas_generation/build/CMakeFiles/rebuild_cache.dir
